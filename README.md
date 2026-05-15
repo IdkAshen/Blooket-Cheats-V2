@@ -7,3 +7,5 @@ This is One: <img width="267" height="189" alt="idk" src="https://github.com/use
 
 
 So this is a list of the ABSOLUTE, BEST, BADDEST, And COOLEST, Blooket Cheats Bookmarklet's.
+
+Btw heres the Link: https://coding4hours.github.io/Blooket-Cheats/
