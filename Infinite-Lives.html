@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Infinite Lives</title>
+</head>
+<body>
+  <h1>Infinite Lives</h1>
+  <button id="giveLives">Give Me Lives!</button>
+
+  <script>
+    document.getElementById('giveLives').addEventListener('click', () => {
+      // Call the function to give infinite lives
+      giveInfiniteLives();
+    });
+
+    function giveInfiniteLives() {
+      // Simulate pressing the 'Give Me Lives!' button
+      const interval = setInterval(() => {
+        document.getElementById('giveLives').click();
+      }, 100);
+    }
+  </script>
+</body>
+</html>
