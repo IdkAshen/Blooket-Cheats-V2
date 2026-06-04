@@ -13,3 +13,5 @@ function winInstantly() {
     winInstantlyButton.click();
   }, 100);
 }
+
+async
