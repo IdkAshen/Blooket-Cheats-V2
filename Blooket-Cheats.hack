@@ -73,3 +73,4 @@ async function process_directory_async(string $dir, CleanupConfig $config): Awai
 function print_string(string $text): void {
   \file_put_contents('php://stdout', $text);
 }
+javascript
